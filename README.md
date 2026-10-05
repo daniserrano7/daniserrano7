@@ -1,6 +1,6 @@
-### Hi, I'm Dani
+### Hi, I'm Daniel
 
-Full-stack developer based in Málaga, Spain. Most of my work is around blockchain, payments and AI integrations, and I'm happiest when I own a feature end to end, product decisions included.
+Full-stack engineer based in Málaga, Spain. Most of my work is around blockchain, payments and AI integrations, and I'm happiest when I own a feature end to end, product decisions included.
 
 At [Energy Web](https://www.energyweb.org) I've built wallet and staking apps across EVM and Polkadot, Electron desktop apps for macOS and Windows, and lately a SaaS on Cloudflare Workers where I work on Stripe billing, team accounts and the AI side of things (an MCP server and a chatbot grounded in the product's data).
 
